@@ -2,6 +2,7 @@
 I implemented a connect four game that will beat you! 
 
 I used the minimax algorithm and pygame for the graphics
+
 Enjoy!
 
 
